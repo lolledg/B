@@ -1,1 +1,1 @@
-https://github.com/lolledg/B/raw/refs/heads/main/H
+loadstring(game:HttpGet("https://github.com/lolledg/B/raw/refs/heads/main/H"))()
